@@ -1,7 +1,7 @@
 spring:
   datasource:
     url:
-      jdbc:postgresql://localhost:11380/studs
+      jdbc:postgresql://localhost:5432/studs
     username:
 
     password:
