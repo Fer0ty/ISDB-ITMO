@@ -1,3 +1,3 @@
 Чтобы создать jar
 
-``` mvn clear install ```
+``` mvn clean install ```
